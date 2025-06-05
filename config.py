@@ -28,7 +28,7 @@ ASSUSERNAME = getenv("ASSUSERNAME" , "Hinata_assisbot")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 MONGO_DB_URI = getenv("mongodb+srv://sufyan532011:2010@dbz.28ftn.mongodb.net/?retryWrites=true&w=majority&appName=DBZ")
-API_KEY = getenv("API_KEY")
+API_KEY = getenv("AIzaSyC8wdE5fLjCo3xiW9NmddHyxZaKenpEJ7Q")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
