@@ -17,17 +17,17 @@ BOT_ID = getenv("7207574948")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","Uzumaki_X_Naruto_6")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "AqiaBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Gvhhhgbot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Aqia")
+BOT_NAME = getenv("BOT_NAME" , "testbot")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "AqiaPro")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Hinata_assisbot")
 # ---------------------------------------------------------
 
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI")
+MONGO_DB_URI = getenv("mongodb+srv://sufyan532011:2010@dbz.28ftn.mongodb.net/?retryWrites=true&w=majority&appName=DBZ")
 API_KEY = getenv("API_KEY")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
