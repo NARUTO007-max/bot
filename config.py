@@ -9,13 +9,13 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("21218274"))
+API_HASH = getenv("3474a18b61897c672d315fb330edb213")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN")
-BOT_ID = getenv("BOT_ID")
+BOT_TOKEN = getenv("7207574948:AAGRV7Te9gcinmy9hLnPvAOiEzcOYgllDns")
+BOT_ID = getenv("7207574948")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ZeoXpro")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Uzumaki_X_Naruto_6")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "AqiaBot")
 # --------------------------------------------------------
@@ -37,11 +37,11 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID"))
+LOGGER_ID = int(getenv("-1002535643821"))
 CLONE_LOGGER = LOGGER_ID
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7355202884))
+OWNER_ID = int(getenv("OWNER_ID", 7576729648))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
@@ -72,7 +72,7 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ProBotts")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/bey_war_updates")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ProBotGc")
 CHAT = getenv("CHAT", "https://t.me/ProBotGc")
 # ------------------------------------------------------------------------------
@@ -120,7 +120,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 # ------------------------------------
 # ------------------------------------
 # ------------------------------------
-STRING1 = getenv("STRING_SESSION", "")
+STRING1 = getenv("STRING_SESSION", "BQFDw-IAcCq6t61I2Ag8RKFsJfTJ2bpgNGxKzk6Hsmbs2SOeGH0a-GxcsKX0mAyX9YL5wQ-0xwp0fstrHvnp7DBH3Zk_bjH9Pn3mFDPZTGbfEEKGwlFY03EF1INP9hIfvl7JhMKoj0HFhXDbxany59OJeBtaViHlMacaeRJRCvh9d7MzzHrsaVCdgQDBBJ4Mf4c-3QpD1Ixom0KyuH6h9Ta69aLdsaQmVS9yAeZWD8rNRKEO696IrNyadaKIfptryW7o8Q4DGfCtdExJ-RQLq7POqL9jhfSAeHy9nOGRWzcvZIwiQqdseDwfBf3F8IxozNmmIRSuxCu3igRepVK133aGU6K0uQAAAAHk57-wAQ")
 STRING2 = getenv("STRING_SESSION2", None)
 BANNED_USERS = filters.user()
 adminlist = {}
